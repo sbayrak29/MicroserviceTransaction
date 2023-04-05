@@ -11,5 +11,5 @@ public class MicroserviceTransactionApplication
 	{
 		SpringApplication.run(MicroserviceTransactionApplication.class, args);
 	}
-//yeni değişiklik
+//yeni değişiklik transactıon için 05/04/2023 saat:13:32
 }
