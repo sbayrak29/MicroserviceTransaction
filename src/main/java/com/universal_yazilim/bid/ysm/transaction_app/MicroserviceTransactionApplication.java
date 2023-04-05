@@ -11,5 +11,5 @@ public class MicroserviceTransactionApplication
 	{
 		SpringApplication.run(MicroserviceTransactionApplication.class, args);
 	}
-//nnnzmcnzncznczcmnz
+//yeni değişiklik
 }
